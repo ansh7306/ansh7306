@@ -20,7 +20,7 @@
 <table style="border:none;" border="none">
   <tr>
     <td>
-<a href="[https://instagram.com/vraj_537](https://www.instagram.com/__ansh007__/profilecard/?igsh=MWdqZWQzamp5bGF2Ng==)" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vraj_537" height="30" width="40" />
+<a href="https://www.instagram.com/__ansh007__/profilecard/?igsh=MWdqZWQzamp5bGF2Ng==" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vraj_537" height="30" width="40" />
 </td>
 <!--<td>
 <a href="https://www.linkedin.com/in/vraj537/" target="blank"><img  src="https://cdn.iconscout.com/icon/free/png-256/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-1581908.png?f=webp" alt="vraj_537" height="30" width="40" />
